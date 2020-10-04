@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\BlackJack 21.exe
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\BlackJack 21.deps.json
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\BlackJack 21.runtimeconfig.json
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\BlackJack 21.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\BlackJack 21.dll
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\BlackJack 21.pdb
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\LibraryPOO.dll
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\bin\Debug\netcoreapp3.1\LibraryPOO.pdb
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.g.resources
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.dll
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.pdb
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\BlackJack 21\obj\Debug\netcoreapp3.1\BlackJack 21.genruntimeconfig.cache

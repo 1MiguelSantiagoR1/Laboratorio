@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\bin\Debug\netcoreapp3.1\LibraryPOO.deps.json
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\bin\Debug\netcoreapp3.1\LibraryPOO.dll
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\bin\Debug\netcoreapp3.1\LibraryPOO.pdb
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\obj\Debug\netcoreapp3.1\LibraryPOO.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\obj\Debug\netcoreapp3.1\LibraryPOO.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\obj\Debug\netcoreapp3.1\LibraryPOO.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\obj\Debug\netcoreapp3.1\LibraryPOO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\obj\Debug\netcoreapp3.1\LibraryPOO.dll
+C:\Users\Administrator\Desktop\Visual Proyectos\BlackJack 21\LibraryPOO\obj\Debug\netcoreapp3.1\LibraryPOO.pdb
